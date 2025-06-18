@@ -9,7 +9,7 @@ Sistema desenvolvido em Python com integração ao MySQL, que permite realizar o
 - ✅ Consulta de dados dos alunos e suas respectivas disciplinas
 - ✅ Sistema de login para acesso restrito
 - ✅ Armazenamento dos dados no MySQL
-- ✅ Interface via terminal
+- ✅ Interface gráfica amigável desenvolvida com Tkinter
 
 ## 🛠️ Tecnologias e Ferramentas
 
