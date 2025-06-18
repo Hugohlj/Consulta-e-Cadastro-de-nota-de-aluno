@@ -25,3 +25,12 @@ Sistema desenvolvido em Python com integração ao MySQL, que permite realizar o
 - Ter o **Python** instalado na máquina
 - Ter o **MySQL** instalado e configurado
 - Ter um banco de dados criado (o script SQL está disponível no projeto)
+
+## 👨‍💻 Equipe
+
+| Nome             | Função no Projeto                      |
+|------------------|-----------------------------------------|
+| **Hugo**         | Desenvolvimento do sistema de login e cadastro de alunos |
+| **Maria Eduarda**| Criação e modelagem do banco de dados (MySQL)             |
+| **Eduardo**      | Desenvolvimento da funcionalidade de consulta de alunos e disciplinas |
+| **Kauã**         | Desenvolvimento da interface gráfica utilizando Tkinter   |
